@@ -1,0 +1,9 @@
+{
+  "subdomain": "primerimpulso",
+  "owner": {
+    "email": "alexmaxter2013@gmail.com"
+  },
+  "record": {
+    "CNAME": "alexmaxter.github.io"
+  }
+}
